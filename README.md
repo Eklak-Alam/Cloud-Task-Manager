@@ -5,7 +5,7 @@ A full-stack "To-Do" application built to demonstrate a Modern Cloud-Native Arch
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-orange)
-
+    
 ---
 
 ## 🚀 Tech Stack
